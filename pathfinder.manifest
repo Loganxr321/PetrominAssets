@@ -27,7 +27,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+
 Assets:
 - Assets/Nissan PathFinder/Tex_Color/Mocha almond pearl.png
 - Assets/Nissan PathFinder/Tex_Color/Scarlet amber tintcoat.png
