@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2205890364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bb80f5f799f3e5202a7d37f686ab5d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 719f5ae25fe66f703a1f22d2c1266ee7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Original/Tex_Color/Mocha almond pearl.png
+- Assets/Original/Tex_Color/Scarlet amber tintcoat.png
+- Assets/Original/Tex_Color/Deep ocean blue pearl.png
+- Assets/Original/Tex_Color/Obsidian green pearl with black roof.png
+- Assets/Original/Tex_Color/Super black.png
+- Assets/Original/Tex_Color/Boulder grey.png
+- Assets/Original/Prefab/Pathfinder.prefab
+- Assets/Original/Tex_Color/Scarlet amber tintcoat with super black roof.png
+- Assets/Original/Tex_Color/Brillant Silver.png
+- Assets/Original/Tex_Color/Gun metallic with super black roof.png
+- Assets/Original/Tex_Color/Gun Metallic.png
+- Assets/Original/Tex_Color/Obsidian green pearl.png
+- Assets/Original/Tex_Color/Pearl white tricoat with super black roof.png
+- Assets/Original/Tex_Color/Boulder grey with super black roof.png
+Dependencies: []
