@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4248131445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11252fe689edd8c7251704ff31b184a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 992e91fba1b477d568d81fcee4ec1114
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Mocha almond pearl.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Scarlet amber tintcoat.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Deep ocean blue pearl.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Obsidian green pearl
+  with black roof.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Super black.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Boulder grey.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Scarlet amber tintcoat
+  with super black roof.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Brillant Silver.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Gun metallic with
+  super black roof.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Gun Metallic.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Obsidian green pearl.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Pearl white tricoat
+  with super black roof.png
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Mesh/Pathfinder.prefab
+- Assets/Editor/Petromin Cars 2022/Nissan PathFinder/Tex_Color/Boulder grey with
+  super black roof.png
+Dependencies: []
