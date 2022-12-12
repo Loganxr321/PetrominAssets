@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3990541720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73a87dffcd97d8be9648d0e39c4d8cd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e935cad40e8d56faed9d589efbfe208
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Petromin Cars/Original/Car Color/Silver Metallic.png
+- Assets/Petromin Cars/Original/Car Color/Nuance Beige.png
+- Assets/Petromin Cars/Original/Car Color/White.png
+- Assets/Petromin Cars/Original/Car Color/Silver Black.png
+- Assets/Petromin Cars/Original/patrol.prefab
+- Assets/Petromin Cars/Original/Car Color/Metallic Gray.png
+- Assets/Petromin Cars/Original/Mat/Set_1_Outer.mat
+- Assets/Petromin Cars/Original/Car Color/Dark Blue.png
+Dependencies: []
