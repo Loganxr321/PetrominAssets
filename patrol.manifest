@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2619437435
+CRC: 1699825516
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 73a87dffcd97d8be9648d0e39c4d8cd5
+    Hash: eb0788a1d4b6b9f55f515120cae94633
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
+    Hash: 47b82dbdaa5f67cf1638c6d424d84cb5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,13 +39,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Petromin Cars/Patrol/Texture/Silver Metallic.png
-- Assets/Petromin Cars/Patrol/Texture/Nuance Beige.png
 - Assets/Petromin Cars/Patrol/Texture/White.png
-- Assets/Petromin Cars/Patrol/Texture/Silver Black.png
-- Assets/Petromin Cars/Patrol/Prefab/patrol.prefab
-- Assets/Petromin Cars/Patrol/Texture/Metallic Gray.png
-- Assets/Petromin Cars/Patrol/Mat/Set_1_Outer.mat
 - Assets/Petromin Cars/Patrol/Texture/Dark Blue.png
+- Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
+- Assets/Petromin Cars/Patrol/Texture/Nuance Beige.png
+- Assets/Petromin Cars/Patrol/Texture/Silver Black.png
+- Assets/Petromin Cars/Patrol/Texture/Metallic Gray.png
+- Assets/Petromin Cars/Patrol/Texture/Silver Metallic.png
 Dependencies: []
