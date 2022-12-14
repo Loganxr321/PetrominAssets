@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 38565810
+CRC: 2207861129
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6e2040f5af8323f9a46d9b26eadab79
+    Hash: 4469e0cc912effc7c6f43d690901c7fe
   TypeTreeHash:
     serializedVersion: 2
     Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
@@ -47,7 +47,7 @@ Assets:
 - Assets/Petromin Cars/PathFinder/Texture/Obsidian green pearl with black roof.png
 - Assets/Petromin Cars/PathFinder/Texture/Super black.png
 - Assets/Petromin Cars/PathFinder/Texture/Boulder grey.png
-- Assets/Petromin Cars/PathFinder/Prefab/PathFinder.prefab
+- Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
 - Assets/Petromin Cars/PathFinder/Texture/Scarlet amber tintcoat with super black
   roof.png
 - Assets/Petromin Cars/PathFinder/Texture/Brillant Silver.png
