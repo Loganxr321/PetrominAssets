@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1699825516
+CRC: 3274097477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eb0788a1d4b6b9f55f515120cae94633
+    Hash: f3c3490c9c95b374ff60485ca7219f73
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 47b82dbdaa5f67cf1638c6d424d84cb5
+    Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,11 +41,11 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
+- Assets/Petromin Cars/Patrol/Texture/Silver Black.png
+- Assets/Petromin Cars/Patrol/Texture/Silver Metallic.png
 - Assets/Petromin Cars/Patrol/Texture/White.png
 - Assets/Petromin Cars/Patrol/Texture/Dark Blue.png
-- Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
-- Assets/Petromin Cars/Patrol/Texture/Nuance Beige.png
-- Assets/Petromin Cars/Patrol/Texture/Silver Black.png
 - Assets/Petromin Cars/Patrol/Texture/Metallic Gray.png
-- Assets/Petromin Cars/Patrol/Texture/Silver Metallic.png
+- Assets/Petromin Cars/Patrol/Texture/Nuance Beige.png
 Dependencies: []
