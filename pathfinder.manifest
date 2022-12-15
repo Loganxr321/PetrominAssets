@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2831040366
+CRC: 3720273321
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 56da639fe45a3f42717c3d39b20d59f7
+    Hash: 2dc3ed136661b1bb93f1298e1b367eb4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
@@ -41,5 +41,19 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Petromin Cars/PathFinder/Texture/Mocha almond pearl.png
+- Assets/Petromin Cars/PathFinder/Texture/Scarlet amber tintcoat.png
+- Assets/Petromin Cars/PathFinder/Texture/Deep ocean blue pearl.png
+- Assets/Petromin Cars/PathFinder/Texture/Obsidian green pearl with black roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Super black.png
+- Assets/Petromin Cars/PathFinder/Texture/Boulder grey.png
 - Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
+- Assets/Petromin Cars/PathFinder/Texture/Scarlet amber tintcoat with super black
+  roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Brillant Silver.png
+- Assets/Petromin Cars/PathFinder/Texture/Gun metallic with super black roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Gun Metallic.png
+- Assets/Petromin Cars/PathFinder/Texture/Obsidian green pearl.png
+- Assets/Petromin Cars/PathFinder/Texture/Pearl white tricoat with super black roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Boulder grey with super black roof.png
 Dependencies: []
