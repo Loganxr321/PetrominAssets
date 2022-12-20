@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1503795270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccda93d53aa5b0b1054ae769db4a3786
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2e53ad8582db753bceaa948056af6e8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Mocha almond pearl.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Scarlet amber tintcoat.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Deep ocean blue pearl.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Obsidian green pearl with black
+  roof.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Super black.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Boulder grey.png
+- Assets/Petromin Cars/Nissan PathFinder/Prefab/Pathfinder.prefab
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Scarlet amber tintcoat with super
+  black roof.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Brillant Silver.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Gun metallic with super black roof.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Gun Metallic.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Obsidian green pearl.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Pearl white tricoat with super black
+  roof.png
+- Assets/Petromin Cars/Nissan PathFinder/Texture/Boulder grey with super black roof.png
+Dependencies: []
