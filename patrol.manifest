@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1436654252
+CRC: 3282797038
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cad949bb6d19d2e91cf1fd82f21dac2e
+    Hash: a0623979af9a34a3838a9b340caa5f60
   TypeTreeHash:
     serializedVersion: 2
     Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
@@ -41,5 +41,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
+- Assets/Petromin Cars/Patrol.prefab
 Dependencies: []
