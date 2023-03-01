@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3045680092
+CRC: 3708292361
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 27b9689f5c46c9f0aacd424b3302fd93
+    Hash: 415b34e3586568805e9c730944ff2550
   TypeTreeHash:
     serializedVersion: 2
     Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
@@ -41,5 +41,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Petromin Cars/Pathfinder.prefab
+- Assets/Pathfinder.prefab
 Dependencies: []
