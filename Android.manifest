@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 77109488
+CRC: 3137975143
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: pathfinder
-      Dependencies: {}
-    Info_1:
-      Name: patrol
       Dependencies: {}
