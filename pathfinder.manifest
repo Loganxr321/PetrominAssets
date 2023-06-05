@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2802467371
+CRC: 1302285845
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 898b19984dfc1ab661f66d02ed9e8ae5
+    Hash: 09defd4cc2d6c8b59f729c5806f131b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a42ee3f4ec33401f84e8b827f092df3
@@ -41,22 +41,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_deep_blue.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Super Black.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Scarlet amber tintcoat with
-  super black roof.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Glacier white.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Mocha_almond_pearl.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_metallic_black_roof.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Boulder_grey.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green_black_roof.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White Tricoat.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White Tricoat With Super
-  Black Roof.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_boulder_grey_black_roof.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_Metallic.png
 - Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Scarlet amber.png
-- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Brillant_Silver.png
 Dependencies: []
