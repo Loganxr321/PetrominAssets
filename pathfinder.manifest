@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3361505525
+CRC: 1992582085
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6588069660d19e60200d74e7dcaff989
+    Hash: 9aba7e2f79c3910e68f8e5e805096c41
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a42ee3f4ec33401f84e8b827f092df3
@@ -41,5 +41,12 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Blue (RBY).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Black (G41).png
+- Assets/Petromin Cars/PathFinder/Texture/Dark Brown (CAS).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gray (KAD).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White (QAB).png
 - Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
+- Assets/Petromin Cars/PathFinder/Texture/Scarlet Ember (NBL).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Silver (K23).png
 Dependencies: []

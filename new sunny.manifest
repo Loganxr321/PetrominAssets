@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4274092233
+CRC: 121513380
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 07c3b02ac55828ef012b5c7072040d4d
+    Hash: c04a9888ab7968506d9b871b98f7c85e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a42ee3f4ec33401f84e8b827f092df3
@@ -41,5 +41,12 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Radiant Red.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Scarlet Ember Tintcoat.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Electric Blue Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Brilliant Silver Metallic.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Aspen White Tricoat.png
 - Assets/Petromin Cars/Sunny/Prefab/New Sunny.prefab
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Super Black.png
+- Assets/Petromin Cars/Sunny/Texture/Body Variation/Sunny_Gun Metallic.png
 Dependencies: []

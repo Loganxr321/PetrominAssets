@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4112255207
+CRC: 417222670
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48f8ed8a7a82407e10a966c4404138ed
+    Hash: 471d9b04e4b6473a58b225e8e8286fc6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a42ee3f4ec33401f84e8b827f092df3
@@ -41,5 +41,14 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Orange (EBL).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Silver (K23).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Dark Blue (RBD).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Pearl Blue (RAY).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Solid White (QAK).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Scarlet Ember (NBL).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Black (KH3).png
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Gun Metallic Grey (KAD).png
 - Assets/Petromin Cars/Altima/Prefab/Altima.prefab
+- Assets/Petromin Cars/Altima/Texture/Body Variation/Altima_Pearl White (QAB).png
 Dependencies: []
