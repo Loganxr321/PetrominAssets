@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2238856070
+CRC: 1166427780
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a52d1eabaf568d1e2d41d89569e81e7b
+    Hash: 5199a7bd320b54e35085fae21a0ff609
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a42ee3f4ec33401f84e8b827f092df3
@@ -43,9 +43,17 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Blue (RBY).png
 - Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Black (G41).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Scarlet_Amber_Black_Roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Glacier white.png
 - Assets/Petromin Cars/PathFinder/Texture/Dark Brown (CAS).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_metallic_black_roof.png
 - Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gray (KAD).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green_black_roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green.png
 - Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White (QAB).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White_Black_Roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_boulder_grey_black_roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_Metallic.png
 - Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
 - Assets/Petromin Cars/PathFinder/Texture/Scarlet Ember (NBL).png
 - Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Silver (K23).png
