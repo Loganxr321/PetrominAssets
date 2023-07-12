@@ -1,7 +1,31 @@
 ManifestFileVersion: 0
-CRC: 156173285
+CRC: 3787111428
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: pathfinder
+      Dependencies: {}
+    Info_1:
+      Name: altima
+      Dependencies: {}
+    Info_2:
+      Name: gt-r
+      Dependencies: {}
+    Info_3:
+      Name: patrol
+      Dependencies: {}
+    Info_4:
+      Name: kicks
+      Dependencies: {}
+    Info_5:
+      Name: new sunny
+      Dependencies: {}
+    Info_6:
+      Name: x-trail
+      Dependencies: {}
+    Info_7:
+      Name: maxima
+      Dependencies: {}
+    Info_8:
+      Name: z proto
       Dependencies: {}

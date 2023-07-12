@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4093496084
+CRC: 1529006354
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b71da486e9d53e1ebfa4984f7d5f26bf
+    Hash: d108fa504f5da627f4a48c56fe1f1c9a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c14a35a1fdac7ee6d2eedd16f0ee3a4b
+    Hash: a67f1e2c707f65ddd8686db4d1d7ea9b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,7 +31,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
 - Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
@@ -39,13 +45,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Petromin Cars/Patrol/Prefab/Patrol.prefab
-- Assets/Petromin Cars/Patrol/Texture/Silver Black.png
-- Assets/Petromin Cars/Patrol/Texture/Silver Metallic.png
-- Assets/Petromin Cars/Patrol/Texture/White.png
-- Assets/Petromin Cars/Patrol/Texture/Dark Blue.png
-- Assets/Petromin Cars/Patrol/Texture/Metallic Gray.png
-- Assets/Petromin Cars/Patrol/Texture/Nuance Beige.png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_Black (KH3).png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_Silver (K23).png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_White Pearl (QAC).png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_Hermosa Blue (BW5).png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_Metallic Slate (KAD).png
+- Assets/Petromin Cars/Patrol/Texture/Patrol_Gold Beige (HAJ).png
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4037648980
+CRC: 3623159464
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 71cc11ace3a71f22e4cfb37c581b7162
+    Hash: 9ff59a06d050171898a8acf79badf829
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 822216c5ffa8317e7fdbb6f4f8ba7baa
+    Hash: a67f1e2c707f65ddd8686db4d1d7ea9b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,7 +31,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
 - Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
@@ -39,7 +45,24 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Petromin Cars/PathFinder/NewPrefab/PathFinder.prefab
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Blue (RBY).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Black (G41).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Scarlet_Amber_Black_Roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Glacier white.png
+- Assets/Petromin Cars/PathFinder/Texture/Dark Brown (CAS).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_metallic_black_roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gray (KAD).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green_black_roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Obsidian_green.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White (QAB).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Pearl White_Black_Roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_boulder_grey_black_roof.png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Gun_Metallic.png
+- Assets/Petromin Cars/PathFinder/Prefab/Pathfinder.prefab
+- Assets/Petromin Cars/PathFinder/Texture/Scarlet Ember (NBL).png
+- Assets/Petromin Cars/PathFinder/Texture/Pathfinder_Silver (K23).png
 Dependencies: []
