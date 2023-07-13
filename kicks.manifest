@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1232754987
+CRC: 3424660075
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a481600906808b67e78d1f96777120d3
+    Hash: 5424dab72db0fc4da91caa8ba7af4f5d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a67f1e2c707f65ddd8686db4d1d7ea9b
+    Hash: a2783982167d608663bf2a3013820fac
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,10 +35,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 - Class: 212
@@ -56,7 +52,6 @@ Assets:
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Black (KH3).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_Grey (KAD).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Kicks_White (QAC).png
-- Assets/Petromin Cars/Kicks/Texture/Body Variation/Orange (EBB)_N.png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Cayenne Red (NAH).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Dark brown (CAQ).png
 - Assets/Petromin Cars/Kicks/Texture/Body Variation/Super Black (KH3).png
